@@ -1,0 +1,10 @@
+  133  find
+  134  history
+  135  cd LinuxEditor
+  136  grep php wilders.csv > php_france_2019.csv
+  137  gre -i php wilders.csv > php_france_2019.csv
+  138  grep -i php wilders.csv > php_france_2019.csv
+  139  grep - 'biarritz\|toulouse' wilders.csv > js_bizarritz_toulouse.csv | grep -i javascript
+  140  grep -i 'biarritz\|toulouse' wilders.csv > js_bizarritz_toulouse.csv | grep -i javascript
+  141  grep -i 'biarritz\|toulouse' wilders.csv | grep -i javascript > javascript_biarritz_toulouse.csv
+  142  history > history.txt
